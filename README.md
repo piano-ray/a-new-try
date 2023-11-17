@@ -1,2 +1,5 @@
 # a_new_try
-first try to build a Hub
+[x] first try to build a Hub
+[x] commit changes one time 
+[x] clone 
+[ ] push
